@@ -1,7 +1,7 @@
 # Desafio Desenvolvedor Front-End
 
 Abaixo o desafio para os candidatos à vaga de **Desenvolvedor Front-End**:
-1. [Desafio 01](https://github.com/marthaluizaxisto/desafios-fe/tree/main/desafio-01) 
+1. [Desafio 01](https://github.com/mostqi/desafios-frontend/tree/main/desafio-01) 
 
 ## Instruções
 Você deve realizar o fork deste projeto e fazer o push no seu próprio repositório.
