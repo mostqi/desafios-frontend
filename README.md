@@ -11,6 +11,7 @@ A implementação deve ficar na pasta correspondente ao desafio. Fique à vontad
 ## Entrega
 
 Os desafios serão apresentados em data e hora combinados previamente por e-mail. Para esta apresentação, **publique previamente o site resultado do desafio** (existem diversas opções gratuitas)  e apresente os resultados obtidos no pagespeed.web.dev durante a apresentação. 
+
 Será avaliada toda a explicação do código e do processo de desenvolvimento da página, e não apenas o resultado da página em si. O uso de atalhos (como templates prontos, construtores de páginas e CMS), poderá prejudicar a pontuação.
 
 ## mostQI
