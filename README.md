@@ -1,6 +1,8 @@
 # Desafio Desenvolvedor Front-End
 
-Abaixo o desafio para os candidatos à vaga de **Desenvolvedor Front-End**:
+Olá! Se você ainda não se aplicou para esta vaga, preencha o nosso [Formulário de pré-seleção](https://forms.gle/3UsQaaQKkZ3abH5QA).
+
+Abaixo apresentamos o desafio para os candidatos à vaga de **Desenvolvedor Front-End**:
 1. [Desafio 01](https://github.com/mostqi/desafios-frontend/tree/main/desafio-01) 
 
 ## Instruções
